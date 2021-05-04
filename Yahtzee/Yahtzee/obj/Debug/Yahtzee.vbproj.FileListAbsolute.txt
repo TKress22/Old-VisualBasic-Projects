@@ -1,0 +1,36 @@
+F:\Prog\Yahtzee\Yahtzee\bin\Debug\Yahtzee.exe.config
+F:\Prog\Yahtzee\Yahtzee\bin\Debug\Yahtzee.exe
+F:\Prog\Yahtzee\Yahtzee\bin\Debug\Yahtzee.pdb
+F:\Prog\Yahtzee\Yahtzee\bin\Debug\Yahtzee.xml
+F:\Prog\Yahtzee\Yahtzee\obj\Debug\Yahtzee.frmMain.resources
+F:\Prog\Yahtzee\Yahtzee\obj\Debug\Yahtzee.Resources.resources
+F:\Prog\Yahtzee\Yahtzee\obj\Debug\Yahtzee.vbproj.GenerateResource.Cache
+F:\Prog\Yahtzee\Yahtzee\obj\Debug\Yahtzee.exe
+F:\Prog\Yahtzee\Yahtzee\obj\Debug\Yahtzee.xml
+F:\Prog\Yahtzee\Yahtzee\obj\Debug\Yahtzee.pdb
+F:\Prog\Yahtzee\Yahtzee\obj\Debug\Yahtzee.vbprojResolveAssemblyReference.cache
+E:\Prog\Yahtzee\Yahtzee\bin\Debug\Yahtzee.exe.config
+E:\Prog\Yahtzee\Yahtzee\obj\Debug\Yahtzee.exe
+E:\Prog\Yahtzee\Yahtzee\obj\Debug\Yahtzee.xml
+E:\Prog\Yahtzee\Yahtzee\obj\Debug\Yahtzee.pdb
+E:\Prog\Yahtzee\Yahtzee\bin\Debug\Yahtzee.exe
+E:\Prog\Yahtzee\Yahtzee\bin\Debug\Yahtzee.pdb
+E:\Prog\Yahtzee\Yahtzee\bin\Debug\Yahtzee.xml
+E:\Prog\Yahtzee\Yahtzee\obj\Debug\Yahtzee.vbprojResolveAssemblyReference.cache
+E:\Prog\Yahtzee\Yahtzee\obj\Debug\Yahtzee.frmMain.resources
+E:\Prog\Yahtzee\Yahtzee\obj\Debug\Yahtzee.Resources.resources
+E:\Prog\Yahtzee\Yahtzee\obj\Debug\Yahtzee.vbproj.GenerateResource.Cache
+F:\Prog\Yahtzee\Yahtzee\obj\Debug\Yahtzee.GameSetupScreen.resources
+E:\Prog\Yahtzee\Yahtzee\obj\Debug\Yahtzee.GameSetupScreen.resources
+C:\Users\treve_000\Desktop\C9\BACKUP 5.6.16\Prog\Yahtzee\Yahtzee\bin\Debug\Yahtzee.exe.config
+C:\Users\treve_000\Desktop\C9\BACKUP 5.6.16\Prog\Yahtzee\Yahtzee\obj\Debug\Yahtzee.exe
+C:\Users\treve_000\Desktop\C9\BACKUP 5.6.16\Prog\Yahtzee\Yahtzee\obj\Debug\Yahtzee.xml
+C:\Users\treve_000\Desktop\C9\BACKUP 5.6.16\Prog\Yahtzee\Yahtzee\obj\Debug\Yahtzee.pdb
+C:\Users\treve_000\Desktop\C9\BACKUP 5.6.16\Prog\Yahtzee\Yahtzee\bin\Debug\Yahtzee.exe
+C:\Users\treve_000\Desktop\C9\BACKUP 5.6.16\Prog\Yahtzee\Yahtzee\bin\Debug\Yahtzee.pdb
+C:\Users\treve_000\Desktop\C9\BACKUP 5.6.16\Prog\Yahtzee\Yahtzee\bin\Debug\Yahtzee.xml
+C:\Users\treve_000\Desktop\C9\BACKUP 5.6.16\Prog\Yahtzee\Yahtzee\obj\Debug\Yahtzee.vbprojResolveAssemblyReference.cache
+C:\Users\treve_000\Desktop\C9\BACKUP 5.6.16\Prog\Yahtzee\Yahtzee\obj\Debug\Yahtzee.frmMain.resources
+C:\Users\treve_000\Desktop\C9\BACKUP 5.6.16\Prog\Yahtzee\Yahtzee\obj\Debug\Yahtzee.GameSetupScreen.resources
+C:\Users\treve_000\Desktop\C9\BACKUP 5.6.16\Prog\Yahtzee\Yahtzee\obj\Debug\Yahtzee.Resources.resources
+C:\Users\treve_000\Desktop\C9\BACKUP 5.6.16\Prog\Yahtzee\Yahtzee\obj\Debug\Yahtzee.vbproj.GenerateResource.Cache

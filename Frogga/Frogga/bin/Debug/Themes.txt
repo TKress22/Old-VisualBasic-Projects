@@ -1,0 +1,8 @@
+List O' Themes
+
+-Classic								/classic
+-Classic(Gore Mode)							/classgore
+-Kunz the Great								/kunztg
+-Kunz the Noob								/kunztn
+-Football								/football
+-Doge									/doge
